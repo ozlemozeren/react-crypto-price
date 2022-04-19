@@ -1,8 +1,8 @@
 # Crypto-price website
 
 You can find your crypto price easily.
-Click to see the page.
 
+Click to see the page.
 [Click Me](https://react-crypto-price.web.app)
 
 ## Topics
